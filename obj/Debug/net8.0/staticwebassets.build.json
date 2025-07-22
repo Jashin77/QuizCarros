@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "+z9IpLyyQvwkPtoY8YO3CiCHvNx3HGFrmtj284wwYew=",
+  "Hash": "GYtQHZ86bs4JPF6i1wOVlJtLC3ptWf6vOGr4vAg2yb4=",
   "Source": "QuizCarros",
   "BasePath": "_content/QuizCarros",
   "Mode": "Default",
@@ -10,17 +10,17 @@
     {
       "Name": "QuizCarros\\wwwroot",
       "Source": "QuizCarros",
-      "ContentRoot": "D:\\Área de Trabalho\\reporitorio\\Projetos-Js\\QuizCarros\\wwwroot\\",
+      "ContentRoot": "D:\\Área de Trabalho\\reporitorio\\QuizCarros\\wwwroot\\",
       "BasePath": "_content/QuizCarros",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "D:\\Área de Trabalho\\reporitorio\\Projetos-Js\\QuizCarros\\obj\\Debug\\net8.0\\scopedcss\\bundle\\QuizCarros.styles.css",
+      "Identity": "D:\\Área de Trabalho\\reporitorio\\QuizCarros\\obj\\Debug\\net8.0\\scopedcss\\bundle\\QuizCarros.styles.css",
       "SourceId": "QuizCarros",
       "SourceType": "Computed",
-      "ContentRoot": "D:\\Área de Trabalho\\reporitorio\\Projetos-Js\\QuizCarros\\obj\\Debug\\net8.0\\scopedcss\\bundle\\",
+      "ContentRoot": "D:\\Área de Trabalho\\reporitorio\\QuizCarros\\obj\\Debug\\net8.0\\scopedcss\\bundle\\",
       "BasePath": "_content/QuizCarros",
       "RelativePath": "QuizCarros.styles.css",
       "AssetKind": "All",
@@ -33,13 +33,13 @@
       "AssetTraitValue": "ApplicationBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "D:\\Área de Trabalho\\reporitorio\\Projetos-Js\\QuizCarros\\obj\\Debug\\net8.0\\scopedcss\\bundle\\QuizCarros.styles.css"
+      "OriginalItemSpec": "D:\\Área de Trabalho\\reporitorio\\QuizCarros\\obj\\Debug\\net8.0\\scopedcss\\bundle\\QuizCarros.styles.css"
     },
     {
-      "Identity": "D:\\Área de Trabalho\\reporitorio\\Projetos-Js\\QuizCarros\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\QuizCarros.bundle.scp.css",
+      "Identity": "D:\\Área de Trabalho\\reporitorio\\QuizCarros\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\QuizCarros.bundle.scp.css",
       "SourceId": "QuizCarros",
       "SourceType": "Computed",
-      "ContentRoot": "D:\\Área de Trabalho\\reporitorio\\Projetos-Js\\QuizCarros\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\",
+      "ContentRoot": "D:\\Área de Trabalho\\reporitorio\\QuizCarros\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\",
       "BasePath": "_content/QuizCarros",
       "RelativePath": "QuizCarros.bundle.scp.css",
       "AssetKind": "All",
@@ -52,13 +52,13 @@
       "AssetTraitValue": "ProjectBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "D:\\Área de Trabalho\\reporitorio\\Projetos-Js\\QuizCarros\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\QuizCarros.bundle.scp.css"
+      "OriginalItemSpec": "D:\\Área de Trabalho\\reporitorio\\QuizCarros\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\QuizCarros.bundle.scp.css"
     },
     {
-      "Identity": "D:\\Área de Trabalho\\reporitorio\\Projetos-Js\\QuizCarros\\wwwroot\\css\\site.css",
+      "Identity": "D:\\Área de Trabalho\\reporitorio\\QuizCarros\\wwwroot\\css\\site.css",
       "SourceId": "QuizCarros",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Área de Trabalho\\reporitorio\\Projetos-Js\\QuizCarros\\wwwroot\\",
+      "ContentRoot": "D:\\Área de Trabalho\\reporitorio\\QuizCarros\\wwwroot\\",
       "BasePath": "_content/QuizCarros",
       "RelativePath": "css/site.css",
       "AssetKind": "All",
@@ -74,10 +74,10 @@
       "OriginalItemSpec": "wwwroot\\css\\site.css"
     },
     {
-      "Identity": "D:\\Área de Trabalho\\reporitorio\\Projetos-Js\\QuizCarros\\wwwroot\\css\\stilyIndex.css",
+      "Identity": "D:\\Área de Trabalho\\reporitorio\\QuizCarros\\wwwroot\\css\\stilyIndex.css",
       "SourceId": "QuizCarros",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Área de Trabalho\\reporitorio\\Projetos-Js\\QuizCarros\\wwwroot\\",
+      "ContentRoot": "D:\\Área de Trabalho\\reporitorio\\QuizCarros\\wwwroot\\",
       "BasePath": "_content/QuizCarros",
       "RelativePath": "css/stilyIndex.css",
       "AssetKind": "All",
@@ -93,10 +93,10 @@
       "OriginalItemSpec": "wwwroot\\css\\stilyIndex.css"
     },
     {
-      "Identity": "D:\\Área de Trabalho\\reporitorio\\Projetos-Js\\QuizCarros\\wwwroot\\favicon.ico",
+      "Identity": "D:\\Área de Trabalho\\reporitorio\\QuizCarros\\wwwroot\\favicon.ico",
       "SourceId": "QuizCarros",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Área de Trabalho\\reporitorio\\Projetos-Js\\QuizCarros\\wwwroot\\",
+      "ContentRoot": "D:\\Área de Trabalho\\reporitorio\\QuizCarros\\wwwroot\\",
       "BasePath": "_content/QuizCarros",
       "RelativePath": "favicon.ico",
       "AssetKind": "All",
@@ -112,10 +112,10 @@
       "OriginalItemSpec": "wwwroot\\favicon.ico"
     },
     {
-      "Identity": "D:\\Área de Trabalho\\reporitorio\\Projetos-Js\\QuizCarros\\wwwroot\\img\\@branddiee __ Precision Turbo.jpeg",
+      "Identity": "D:\\Área de Trabalho\\reporitorio\\QuizCarros\\wwwroot\\img\\@branddiee __ Precision Turbo.jpeg",
       "SourceId": "QuizCarros",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Área de Trabalho\\reporitorio\\Projetos-Js\\QuizCarros\\wwwroot\\",
+      "ContentRoot": "D:\\Área de Trabalho\\reporitorio\\QuizCarros\\wwwroot\\",
       "BasePath": "_content/QuizCarros",
       "RelativePath": "img/@branddiee __ Precision Turbo.jpeg",
       "AssetKind": "All",
@@ -131,10 +131,10 @@
       "OriginalItemSpec": "wwwroot\\img\\@branddiee __ Precision Turbo.jpeg"
     },
     {
-      "Identity": "D:\\Área de Trabalho\\reporitorio\\Projetos-Js\\QuizCarros\\wwwroot\\img\\911.jpeg",
+      "Identity": "D:\\Área de Trabalho\\reporitorio\\QuizCarros\\wwwroot\\img\\911.jpeg",
       "SourceId": "QuizCarros",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Área de Trabalho\\reporitorio\\Projetos-Js\\QuizCarros\\wwwroot\\",
+      "ContentRoot": "D:\\Área de Trabalho\\reporitorio\\QuizCarros\\wwwroot\\",
       "BasePath": "_content/QuizCarros",
       "RelativePath": "img/911.jpeg",
       "AssetKind": "All",
@@ -150,10 +150,10 @@
       "OriginalItemSpec": "wwwroot\\img\\911.jpeg"
     },
     {
-      "Identity": "D:\\Área de Trabalho\\reporitorio\\Projetos-Js\\QuizCarros\\wwwroot\\img\\baixados (1).jpeg",
+      "Identity": "D:\\Área de Trabalho\\reporitorio\\QuizCarros\\wwwroot\\img\\baixados (1).jpeg",
       "SourceId": "QuizCarros",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Área de Trabalho\\reporitorio\\Projetos-Js\\QuizCarros\\wwwroot\\",
+      "ContentRoot": "D:\\Área de Trabalho\\reporitorio\\QuizCarros\\wwwroot\\",
       "BasePath": "_content/QuizCarros",
       "RelativePath": "img/baixados (1).jpeg",
       "AssetKind": "All",
@@ -169,10 +169,10 @@
       "OriginalItemSpec": "wwwroot\\img\\baixados (1).jpeg"
     },
     {
-      "Identity": "D:\\Área de Trabalho\\reporitorio\\Projetos-Js\\QuizCarros\\wwwroot\\img\\baixados (2).jpeg",
+      "Identity": "D:\\Área de Trabalho\\reporitorio\\QuizCarros\\wwwroot\\img\\baixados (2).jpeg",
       "SourceId": "QuizCarros",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Área de Trabalho\\reporitorio\\Projetos-Js\\QuizCarros\\wwwroot\\",
+      "ContentRoot": "D:\\Área de Trabalho\\reporitorio\\QuizCarros\\wwwroot\\",
       "BasePath": "_content/QuizCarros",
       "RelativePath": "img/baixados (2).jpeg",
       "AssetKind": "All",
@@ -188,10 +188,10 @@
       "OriginalItemSpec": "wwwroot\\img\\baixados (2).jpeg"
     },
     {
-      "Identity": "D:\\Área de Trabalho\\reporitorio\\Projetos-Js\\QuizCarros\\wwwroot\\img\\baixados (3).jpeg",
+      "Identity": "D:\\Área de Trabalho\\reporitorio\\QuizCarros\\wwwroot\\img\\baixados (3).jpeg",
       "SourceId": "QuizCarros",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Área de Trabalho\\reporitorio\\Projetos-Js\\QuizCarros\\wwwroot\\",
+      "ContentRoot": "D:\\Área de Trabalho\\reporitorio\\QuizCarros\\wwwroot\\",
       "BasePath": "_content/QuizCarros",
       "RelativePath": "img/baixados (3).jpeg",
       "AssetKind": "All",
@@ -207,10 +207,10 @@
       "OriginalItemSpec": "wwwroot\\img\\baixados (3).jpeg"
     },
     {
-      "Identity": "D:\\Área de Trabalho\\reporitorio\\Projetos-Js\\QuizCarros\\wwwroot\\img\\baixados.jpeg",
+      "Identity": "D:\\Área de Trabalho\\reporitorio\\QuizCarros\\wwwroot\\img\\baixados.jpeg",
       "SourceId": "QuizCarros",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Área de Trabalho\\reporitorio\\Projetos-Js\\QuizCarros\\wwwroot\\",
+      "ContentRoot": "D:\\Área de Trabalho\\reporitorio\\QuizCarros\\wwwroot\\",
       "BasePath": "_content/QuizCarros",
       "RelativePath": "img/baixados.jpeg",
       "AssetKind": "All",
@@ -226,10 +226,10 @@
       "OriginalItemSpec": "wwwroot\\img\\baixados.jpeg"
     },
     {
-      "Identity": "D:\\Área de Trabalho\\reporitorio\\Projetos-Js\\QuizCarros\\wwwroot\\img\\Bandiera della Repubblica italiana _ Vettore Premium.jpeg",
+      "Identity": "D:\\Área de Trabalho\\reporitorio\\QuizCarros\\wwwroot\\img\\Bandiera della Repubblica italiana _ Vettore Premium.jpeg",
       "SourceId": "QuizCarros",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Área de Trabalho\\reporitorio\\Projetos-Js\\QuizCarros\\wwwroot\\",
+      "ContentRoot": "D:\\Área de Trabalho\\reporitorio\\QuizCarros\\wwwroot\\",
       "BasePath": "_content/QuizCarros",
       "RelativePath": "img/Bandiera della Repubblica italiana _ Vettore Premium.jpeg",
       "AssetKind": "All",
@@ -245,10 +245,10 @@
       "OriginalItemSpec": "wwwroot\\img\\Bandiera della Repubblica italiana _ Vettore Premium.jpeg"
     },
     {
-      "Identity": "D:\\Área de Trabalho\\reporitorio\\Projetos-Js\\QuizCarros\\wwwroot\\img\\Branding Fun_ Ferrari http___marketingisnotselling_com_branding-fun-ferrari_.jpeg",
+      "Identity": "D:\\Área de Trabalho\\reporitorio\\QuizCarros\\wwwroot\\img\\Branding Fun_ Ferrari http___marketingisnotselling_com_branding-fun-ferrari_.jpeg",
       "SourceId": "QuizCarros",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Área de Trabalho\\reporitorio\\Projetos-Js\\QuizCarros\\wwwroot\\",
+      "ContentRoot": "D:\\Área de Trabalho\\reporitorio\\QuizCarros\\wwwroot\\",
       "BasePath": "_content/QuizCarros",
       "RelativePath": "img/Branding Fun_ Ferrari http___marketingisnotselling_com_branding-fun-ferrari_.jpeg",
       "AssetKind": "All",
@@ -264,10 +264,10 @@
       "OriginalItemSpec": "wwwroot\\img\\Branding Fun_ Ferrari http___marketingisnotselling_com_branding-fun-ferrari_.jpeg"
     },
     {
-      "Identity": "D:\\Área de Trabalho\\reporitorio\\Projetos-Js\\QuizCarros\\wwwroot\\img\\Classic Ford Mustang in the Wild.jpeg",
+      "Identity": "D:\\Área de Trabalho\\reporitorio\\QuizCarros\\wwwroot\\img\\Classic Ford Mustang in the Wild.jpeg",
       "SourceId": "QuizCarros",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Área de Trabalho\\reporitorio\\Projetos-Js\\QuizCarros\\wwwroot\\",
+      "ContentRoot": "D:\\Área de Trabalho\\reporitorio\\QuizCarros\\wwwroot\\",
       "BasePath": "_content/QuizCarros",
       "RelativePath": "img/Classic Ford Mustang in the Wild.jpeg",
       "AssetKind": "All",
@@ -283,10 +283,10 @@
       "OriginalItemSpec": "wwwroot\\img\\Classic Ford Mustang in the Wild.jpeg"
     },
     {
-      "Identity": "D:\\Área de Trabalho\\reporitorio\\Projetos-Js\\QuizCarros\\wwwroot\\img\\Ventoinha do radiador não funciona_ Saiba o que fazer.jpeg",
+      "Identity": "D:\\Área de Trabalho\\reporitorio\\QuizCarros\\wwwroot\\img\\Ventoinha do radiador não funciona_ Saiba o que fazer.jpeg",
       "SourceId": "QuizCarros",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Área de Trabalho\\reporitorio\\Projetos-Js\\QuizCarros\\wwwroot\\",
+      "ContentRoot": "D:\\Área de Trabalho\\reporitorio\\QuizCarros\\wwwroot\\",
       "BasePath": "_content/QuizCarros",
       "RelativePath": "img/Ventoinha do radiador não funciona_ Saiba o que fazer.jpeg",
       "AssetKind": "All",
@@ -302,10 +302,10 @@
       "OriginalItemSpec": "wwwroot\\img\\Ventoinha do radiador não funciona_ Saiba o que fazer.jpeg"
     },
     {
-      "Identity": "D:\\Área de Trabalho\\reporitorio\\Projetos-Js\\QuizCarros\\wwwroot\\js\\site.js",
+      "Identity": "D:\\Área de Trabalho\\reporitorio\\QuizCarros\\wwwroot\\js\\site.js",
       "SourceId": "QuizCarros",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Área de Trabalho\\reporitorio\\Projetos-Js\\QuizCarros\\wwwroot\\",
+      "ContentRoot": "D:\\Área de Trabalho\\reporitorio\\QuizCarros\\wwwroot\\",
       "BasePath": "_content/QuizCarros",
       "RelativePath": "js/site.js",
       "AssetKind": "All",
@@ -321,10 +321,10 @@
       "OriginalItemSpec": "wwwroot\\js\\site.js"
     },
     {
-      "Identity": "D:\\Área de Trabalho\\reporitorio\\Projetos-Js\\QuizCarros\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "Identity": "D:\\Área de Trabalho\\reporitorio\\QuizCarros\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
       "SourceId": "QuizCarros",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Área de Trabalho\\reporitorio\\Projetos-Js\\QuizCarros\\wwwroot\\",
+      "ContentRoot": "D:\\Área de Trabalho\\reporitorio\\QuizCarros\\wwwroot\\",
       "BasePath": "_content/QuizCarros",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.css",
       "AssetKind": "All",
@@ -340,10 +340,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css"
     },
     {
-      "Identity": "D:\\Área de Trabalho\\reporitorio\\Projetos-Js\\QuizCarros\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "Identity": "D:\\Área de Trabalho\\reporitorio\\QuizCarros\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
       "SourceId": "QuizCarros",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Área de Trabalho\\reporitorio\\Projetos-Js\\QuizCarros\\wwwroot\\",
+      "ContentRoot": "D:\\Área de Trabalho\\reporitorio\\QuizCarros\\wwwroot\\",
       "BasePath": "_content/QuizCarros",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.css.map",
       "AssetKind": "All",
@@ -359,10 +359,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
     },
     {
-      "Identity": "D:\\Área de Trabalho\\reporitorio\\Projetos-Js\\QuizCarros\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "Identity": "D:\\Área de Trabalho\\reporitorio\\QuizCarros\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
       "SourceId": "QuizCarros",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Área de Trabalho\\reporitorio\\Projetos-Js\\QuizCarros\\wwwroot\\",
+      "ContentRoot": "D:\\Área de Trabalho\\reporitorio\\QuizCarros\\wwwroot\\",
       "BasePath": "_content/QuizCarros",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.min.css",
       "AssetKind": "All",
@@ -378,10 +378,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
     },
     {
-      "Identity": "D:\\Área de Trabalho\\reporitorio\\Projetos-Js\\QuizCarros\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "Identity": "D:\\Área de Trabalho\\reporitorio\\QuizCarros\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
       "SourceId": "QuizCarros",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Área de Trabalho\\reporitorio\\Projetos-Js\\QuizCarros\\wwwroot\\",
+      "ContentRoot": "D:\\Área de Trabalho\\reporitorio\\QuizCarros\\wwwroot\\",
       "BasePath": "_content/QuizCarros",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.min.css.map",
       "AssetKind": "All",
@@ -397,10 +397,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
     },
     {
-      "Identity": "D:\\Área de Trabalho\\reporitorio\\Projetos-Js\\QuizCarros\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "Identity": "D:\\Área de Trabalho\\reporitorio\\QuizCarros\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
       "SourceId": "QuizCarros",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Área de Trabalho\\reporitorio\\Projetos-Js\\QuizCarros\\wwwroot\\",
+      "ContentRoot": "D:\\Área de Trabalho\\reporitorio\\QuizCarros\\wwwroot\\",
       "BasePath": "_content/QuizCarros",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.css",
       "AssetKind": "All",
@@ -416,10 +416,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
     },
     {
-      "Identity": "D:\\Área de Trabalho\\reporitorio\\Projetos-Js\\QuizCarros\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "Identity": "D:\\Área de Trabalho\\reporitorio\\QuizCarros\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
       "SourceId": "QuizCarros",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Área de Trabalho\\reporitorio\\Projetos-Js\\QuizCarros\\wwwroot\\",
+      "ContentRoot": "D:\\Área de Trabalho\\reporitorio\\QuizCarros\\wwwroot\\",
       "BasePath": "_content/QuizCarros",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.css.map",
       "AssetKind": "All",
@@ -435,10 +435,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
     },
     {
-      "Identity": "D:\\Área de Trabalho\\reporitorio\\Projetos-Js\\QuizCarros\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "Identity": "D:\\Área de Trabalho\\reporitorio\\QuizCarros\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
       "SourceId": "QuizCarros",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Área de Trabalho\\reporitorio\\Projetos-Js\\QuizCarros\\wwwroot\\",
+      "ContentRoot": "D:\\Área de Trabalho\\reporitorio\\QuizCarros\\wwwroot\\",
       "BasePath": "_content/QuizCarros",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.min.css",
       "AssetKind": "All",
@@ -454,10 +454,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
     },
     {
-      "Identity": "D:\\Área de Trabalho\\reporitorio\\Projetos-Js\\QuizCarros\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "Identity": "D:\\Área de Trabalho\\reporitorio\\QuizCarros\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
       "SourceId": "QuizCarros",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Área de Trabalho\\reporitorio\\Projetos-Js\\QuizCarros\\wwwroot\\",
+      "ContentRoot": "D:\\Área de Trabalho\\reporitorio\\QuizCarros\\wwwroot\\",
       "BasePath": "_content/QuizCarros",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.min.css.map",
       "AssetKind": "All",
@@ -473,10 +473,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
     },
     {
-      "Identity": "D:\\Área de Trabalho\\reporitorio\\Projetos-Js\\QuizCarros\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "Identity": "D:\\Área de Trabalho\\reporitorio\\QuizCarros\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
       "SourceId": "QuizCarros",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Área de Trabalho\\reporitorio\\Projetos-Js\\QuizCarros\\wwwroot\\",
+      "ContentRoot": "D:\\Área de Trabalho\\reporitorio\\QuizCarros\\wwwroot\\",
       "BasePath": "_content/QuizCarros",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.css",
       "AssetKind": "All",
@@ -492,10 +492,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
     },
     {
-      "Identity": "D:\\Área de Trabalho\\reporitorio\\Projetos-Js\\QuizCarros\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "Identity": "D:\\Área de Trabalho\\reporitorio\\QuizCarros\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
       "SourceId": "QuizCarros",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Área de Trabalho\\reporitorio\\Projetos-Js\\QuizCarros\\wwwroot\\",
+      "ContentRoot": "D:\\Área de Trabalho\\reporitorio\\QuizCarros\\wwwroot\\",
       "BasePath": "_content/QuizCarros",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.css.map",
       "AssetKind": "All",
@@ -511,10 +511,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
     },
     {
-      "Identity": "D:\\Área de Trabalho\\reporitorio\\Projetos-Js\\QuizCarros\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "Identity": "D:\\Área de Trabalho\\reporitorio\\QuizCarros\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
       "SourceId": "QuizCarros",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Área de Trabalho\\reporitorio\\Projetos-Js\\QuizCarros\\wwwroot\\",
+      "ContentRoot": "D:\\Área de Trabalho\\reporitorio\\QuizCarros\\wwwroot\\",
       "BasePath": "_content/QuizCarros",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.min.css",
       "AssetKind": "All",
@@ -530,10 +530,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
     },
     {
-      "Identity": "D:\\Área de Trabalho\\reporitorio\\Projetos-Js\\QuizCarros\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "Identity": "D:\\Área de Trabalho\\reporitorio\\QuizCarros\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
       "SourceId": "QuizCarros",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Área de Trabalho\\reporitorio\\Projetos-Js\\QuizCarros\\wwwroot\\",
+      "ContentRoot": "D:\\Área de Trabalho\\reporitorio\\QuizCarros\\wwwroot\\",
       "BasePath": "_content/QuizCarros",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.min.css.map",
       "AssetKind": "All",
@@ -549,10 +549,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
     },
     {
-      "Identity": "D:\\Área de Trabalho\\reporitorio\\Projetos-Js\\QuizCarros\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "Identity": "D:\\Área de Trabalho\\reporitorio\\QuizCarros\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
       "SourceId": "QuizCarros",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Área de Trabalho\\reporitorio\\Projetos-Js\\QuizCarros\\wwwroot\\",
+      "ContentRoot": "D:\\Área de Trabalho\\reporitorio\\QuizCarros\\wwwroot\\",
       "BasePath": "_content/QuizCarros",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.css",
       "AssetKind": "All",
@@ -568,10 +568,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
     },
     {
-      "Identity": "D:\\Área de Trabalho\\reporitorio\\Projetos-Js\\QuizCarros\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "Identity": "D:\\Área de Trabalho\\reporitorio\\QuizCarros\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
       "SourceId": "QuizCarros",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Área de Trabalho\\reporitorio\\Projetos-Js\\QuizCarros\\wwwroot\\",
+      "ContentRoot": "D:\\Área de Trabalho\\reporitorio\\QuizCarros\\wwwroot\\",
       "BasePath": "_content/QuizCarros",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.css.map",
       "AssetKind": "All",
@@ -587,10 +587,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
     },
     {
-      "Identity": "D:\\Área de Trabalho\\reporitorio\\Projetos-Js\\QuizCarros\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "Identity": "D:\\Área de Trabalho\\reporitorio\\QuizCarros\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
       "SourceId": "QuizCarros",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Área de Trabalho\\reporitorio\\Projetos-Js\\QuizCarros\\wwwroot\\",
+      "ContentRoot": "D:\\Área de Trabalho\\reporitorio\\QuizCarros\\wwwroot\\",
       "BasePath": "_content/QuizCarros",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css",
       "AssetKind": "All",
@@ -606,10 +606,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
     },
     {
-      "Identity": "D:\\Área de Trabalho\\reporitorio\\Projetos-Js\\QuizCarros\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "Identity": "D:\\Área de Trabalho\\reporitorio\\QuizCarros\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
       "SourceId": "QuizCarros",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Área de Trabalho\\reporitorio\\Projetos-Js\\QuizCarros\\wwwroot\\",
+      "ContentRoot": "D:\\Área de Trabalho\\reporitorio\\QuizCarros\\wwwroot\\",
       "BasePath": "_content/QuizCarros",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.map",
       "AssetKind": "All",
@@ -625,10 +625,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
     },
     {
-      "Identity": "D:\\Área de Trabalho\\reporitorio\\Projetos-Js\\QuizCarros\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "Identity": "D:\\Área de Trabalho\\reporitorio\\QuizCarros\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
       "SourceId": "QuizCarros",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Área de Trabalho\\reporitorio\\Projetos-Js\\QuizCarros\\wwwroot\\",
+      "ContentRoot": "D:\\Área de Trabalho\\reporitorio\\QuizCarros\\wwwroot\\",
       "BasePath": "_content/QuizCarros",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.css",
       "AssetKind": "All",
@@ -644,10 +644,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
     },
     {
-      "Identity": "D:\\Área de Trabalho\\reporitorio\\Projetos-Js\\QuizCarros\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "Identity": "D:\\Área de Trabalho\\reporitorio\\QuizCarros\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
       "SourceId": "QuizCarros",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Área de Trabalho\\reporitorio\\Projetos-Js\\QuizCarros\\wwwroot\\",
+      "ContentRoot": "D:\\Área de Trabalho\\reporitorio\\QuizCarros\\wwwroot\\",
       "BasePath": "_content/QuizCarros",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.css.map",
       "AssetKind": "All",
@@ -663,10 +663,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
     },
     {
-      "Identity": "D:\\Área de Trabalho\\reporitorio\\Projetos-Js\\QuizCarros\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "Identity": "D:\\Área de Trabalho\\reporitorio\\QuizCarros\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
       "SourceId": "QuizCarros",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Área de Trabalho\\reporitorio\\Projetos-Js\\QuizCarros\\wwwroot\\",
+      "ContentRoot": "D:\\Área de Trabalho\\reporitorio\\QuizCarros\\wwwroot\\",
       "BasePath": "_content/QuizCarros",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.min.css",
       "AssetKind": "All",
@@ -682,10 +682,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
     },
     {
-      "Identity": "D:\\Área de Trabalho\\reporitorio\\Projetos-Js\\QuizCarros\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "Identity": "D:\\Área de Trabalho\\reporitorio\\QuizCarros\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
       "SourceId": "QuizCarros",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Área de Trabalho\\reporitorio\\Projetos-Js\\QuizCarros\\wwwroot\\",
+      "ContentRoot": "D:\\Área de Trabalho\\reporitorio\\QuizCarros\\wwwroot\\",
       "BasePath": "_content/QuizCarros",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.min.css.map",
       "AssetKind": "All",
@@ -701,10 +701,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
     },
     {
-      "Identity": "D:\\Área de Trabalho\\reporitorio\\Projetos-Js\\QuizCarros\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "Identity": "D:\\Área de Trabalho\\reporitorio\\QuizCarros\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
       "SourceId": "QuizCarros",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Área de Trabalho\\reporitorio\\Projetos-Js\\QuizCarros\\wwwroot\\",
+      "ContentRoot": "D:\\Área de Trabalho\\reporitorio\\QuizCarros\\wwwroot\\",
       "BasePath": "_content/QuizCarros",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.css",
       "AssetKind": "All",
@@ -720,10 +720,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
     },
     {
-      "Identity": "D:\\Área de Trabalho\\reporitorio\\Projetos-Js\\QuizCarros\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "Identity": "D:\\Área de Trabalho\\reporitorio\\QuizCarros\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
       "SourceId": "QuizCarros",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Área de Trabalho\\reporitorio\\Projetos-Js\\QuizCarros\\wwwroot\\",
+      "ContentRoot": "D:\\Área de Trabalho\\reporitorio\\QuizCarros\\wwwroot\\",
       "BasePath": "_content/QuizCarros",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.map",
       "AssetKind": "All",
@@ -739,10 +739,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
     },
     {
-      "Identity": "D:\\Área de Trabalho\\reporitorio\\Projetos-Js\\QuizCarros\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "Identity": "D:\\Área de Trabalho\\reporitorio\\QuizCarros\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
       "SourceId": "QuizCarros",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Área de Trabalho\\reporitorio\\Projetos-Js\\QuizCarros\\wwwroot\\",
+      "ContentRoot": "D:\\Área de Trabalho\\reporitorio\\QuizCarros\\wwwroot\\",
       "BasePath": "_content/QuizCarros",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css",
       "AssetKind": "All",
@@ -758,10 +758,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
     },
     {
-      "Identity": "D:\\Área de Trabalho\\reporitorio\\Projetos-Js\\QuizCarros\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "Identity": "D:\\Área de Trabalho\\reporitorio\\QuizCarros\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
       "SourceId": "QuizCarros",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Área de Trabalho\\reporitorio\\Projetos-Js\\QuizCarros\\wwwroot\\",
+      "ContentRoot": "D:\\Área de Trabalho\\reporitorio\\QuizCarros\\wwwroot\\",
       "BasePath": "_content/QuizCarros",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.map",
       "AssetKind": "All",
@@ -777,10 +777,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
     },
     {
-      "Identity": "D:\\Área de Trabalho\\reporitorio\\Projetos-Js\\QuizCarros\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "Identity": "D:\\Área de Trabalho\\reporitorio\\QuizCarros\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
       "SourceId": "QuizCarros",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Área de Trabalho\\reporitorio\\Projetos-Js\\QuizCarros\\wwwroot\\",
+      "ContentRoot": "D:\\Área de Trabalho\\reporitorio\\QuizCarros\\wwwroot\\",
       "BasePath": "_content/QuizCarros",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.css",
       "AssetKind": "All",
@@ -796,10 +796,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
     },
     {
-      "Identity": "D:\\Área de Trabalho\\reporitorio\\Projetos-Js\\QuizCarros\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "Identity": "D:\\Área de Trabalho\\reporitorio\\QuizCarros\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
       "SourceId": "QuizCarros",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Área de Trabalho\\reporitorio\\Projetos-Js\\QuizCarros\\wwwroot\\",
+      "ContentRoot": "D:\\Área de Trabalho\\reporitorio\\QuizCarros\\wwwroot\\",
       "BasePath": "_content/QuizCarros",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.css.map",
       "AssetKind": "All",
@@ -815,10 +815,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
     },
     {
-      "Identity": "D:\\Área de Trabalho\\reporitorio\\Projetos-Js\\QuizCarros\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "Identity": "D:\\Área de Trabalho\\reporitorio\\QuizCarros\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
       "SourceId": "QuizCarros",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Área de Trabalho\\reporitorio\\Projetos-Js\\QuizCarros\\wwwroot\\",
+      "ContentRoot": "D:\\Área de Trabalho\\reporitorio\\QuizCarros\\wwwroot\\",
       "BasePath": "_content/QuizCarros",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.min.css",
       "AssetKind": "All",
@@ -834,10 +834,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
     },
     {
-      "Identity": "D:\\Área de Trabalho\\reporitorio\\Projetos-Js\\QuizCarros\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "Identity": "D:\\Área de Trabalho\\reporitorio\\QuizCarros\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
       "SourceId": "QuizCarros",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Área de Trabalho\\reporitorio\\Projetos-Js\\QuizCarros\\wwwroot\\",
+      "ContentRoot": "D:\\Área de Trabalho\\reporitorio\\QuizCarros\\wwwroot\\",
       "BasePath": "_content/QuizCarros",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.min.css.map",
       "AssetKind": "All",
@@ -853,10 +853,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
     },
     {
-      "Identity": "D:\\Área de Trabalho\\reporitorio\\Projetos-Js\\QuizCarros\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "Identity": "D:\\Área de Trabalho\\reporitorio\\QuizCarros\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
       "SourceId": "QuizCarros",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Área de Trabalho\\reporitorio\\Projetos-Js\\QuizCarros\\wwwroot\\",
+      "ContentRoot": "D:\\Área de Trabalho\\reporitorio\\QuizCarros\\wwwroot\\",
       "BasePath": "_content/QuizCarros",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.css",
       "AssetKind": "All",
@@ -872,10 +872,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
     },
     {
-      "Identity": "D:\\Área de Trabalho\\reporitorio\\Projetos-Js\\QuizCarros\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "Identity": "D:\\Área de Trabalho\\reporitorio\\QuizCarros\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
       "SourceId": "QuizCarros",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Área de Trabalho\\reporitorio\\Projetos-Js\\QuizCarros\\wwwroot\\",
+      "ContentRoot": "D:\\Área de Trabalho\\reporitorio\\QuizCarros\\wwwroot\\",
       "BasePath": "_content/QuizCarros",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.map",
       "AssetKind": "All",
@@ -891,10 +891,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
     },
     {
-      "Identity": "D:\\Área de Trabalho\\reporitorio\\Projetos-Js\\QuizCarros\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "Identity": "D:\\Área de Trabalho\\reporitorio\\QuizCarros\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
       "SourceId": "QuizCarros",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Área de Trabalho\\reporitorio\\Projetos-Js\\QuizCarros\\wwwroot\\",
+      "ContentRoot": "D:\\Área de Trabalho\\reporitorio\\QuizCarros\\wwwroot\\",
       "BasePath": "_content/QuizCarros",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css",
       "AssetKind": "All",
@@ -910,10 +910,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
     },
     {
-      "Identity": "D:\\Área de Trabalho\\reporitorio\\Projetos-Js\\QuizCarros\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "Identity": "D:\\Área de Trabalho\\reporitorio\\QuizCarros\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
       "SourceId": "QuizCarros",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Área de Trabalho\\reporitorio\\Projetos-Js\\QuizCarros\\wwwroot\\",
+      "ContentRoot": "D:\\Área de Trabalho\\reporitorio\\QuizCarros\\wwwroot\\",
       "BasePath": "_content/QuizCarros",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.map",
       "AssetKind": "All",
@@ -929,10 +929,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
     },
     {
-      "Identity": "D:\\Área de Trabalho\\reporitorio\\Projetos-Js\\QuizCarros\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "Identity": "D:\\Área de Trabalho\\reporitorio\\QuizCarros\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
       "SourceId": "QuizCarros",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Área de Trabalho\\reporitorio\\Projetos-Js\\QuizCarros\\wwwroot\\",
+      "ContentRoot": "D:\\Área de Trabalho\\reporitorio\\QuizCarros\\wwwroot\\",
       "BasePath": "_content/QuizCarros",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.js",
       "AssetKind": "All",
@@ -948,10 +948,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
     },
     {
-      "Identity": "D:\\Área de Trabalho\\reporitorio\\Projetos-Js\\QuizCarros\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "Identity": "D:\\Área de Trabalho\\reporitorio\\QuizCarros\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
       "SourceId": "QuizCarros",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Área de Trabalho\\reporitorio\\Projetos-Js\\QuizCarros\\wwwroot\\",
+      "ContentRoot": "D:\\Área de Trabalho\\reporitorio\\QuizCarros\\wwwroot\\",
       "BasePath": "_content/QuizCarros",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.js.map",
       "AssetKind": "All",
@@ -967,10 +967,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
     },
     {
-      "Identity": "D:\\Área de Trabalho\\reporitorio\\Projetos-Js\\QuizCarros\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "Identity": "D:\\Área de Trabalho\\reporitorio\\QuizCarros\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
       "SourceId": "QuizCarros",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Área de Trabalho\\reporitorio\\Projetos-Js\\QuizCarros\\wwwroot\\",
+      "ContentRoot": "D:\\Área de Trabalho\\reporitorio\\QuizCarros\\wwwroot\\",
       "BasePath": "_content/QuizCarros",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.min.js",
       "AssetKind": "All",
@@ -986,10 +986,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
     },
     {
-      "Identity": "D:\\Área de Trabalho\\reporitorio\\Projetos-Js\\QuizCarros\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "Identity": "D:\\Área de Trabalho\\reporitorio\\QuizCarros\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
       "SourceId": "QuizCarros",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Área de Trabalho\\reporitorio\\Projetos-Js\\QuizCarros\\wwwroot\\",
+      "ContentRoot": "D:\\Área de Trabalho\\reporitorio\\QuizCarros\\wwwroot\\",
       "BasePath": "_content/QuizCarros",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.min.js.map",
       "AssetKind": "All",
@@ -1005,10 +1005,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
     },
     {
-      "Identity": "D:\\Área de Trabalho\\reporitorio\\Projetos-Js\\QuizCarros\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "Identity": "D:\\Área de Trabalho\\reporitorio\\QuizCarros\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
       "SourceId": "QuizCarros",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Área de Trabalho\\reporitorio\\Projetos-Js\\QuizCarros\\wwwroot\\",
+      "ContentRoot": "D:\\Área de Trabalho\\reporitorio\\QuizCarros\\wwwroot\\",
       "BasePath": "_content/QuizCarros",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.js",
       "AssetKind": "All",
@@ -1024,10 +1024,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
     },
     {
-      "Identity": "D:\\Área de Trabalho\\reporitorio\\Projetos-Js\\QuizCarros\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "Identity": "D:\\Área de Trabalho\\reporitorio\\QuizCarros\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
       "SourceId": "QuizCarros",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Área de Trabalho\\reporitorio\\Projetos-Js\\QuizCarros\\wwwroot\\",
+      "ContentRoot": "D:\\Área de Trabalho\\reporitorio\\QuizCarros\\wwwroot\\",
       "BasePath": "_content/QuizCarros",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.js.map",
       "AssetKind": "All",
@@ -1043,10 +1043,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
     },
     {
-      "Identity": "D:\\Área de Trabalho\\reporitorio\\Projetos-Js\\QuizCarros\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "Identity": "D:\\Área de Trabalho\\reporitorio\\QuizCarros\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
       "SourceId": "QuizCarros",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Área de Trabalho\\reporitorio\\Projetos-Js\\QuizCarros\\wwwroot\\",
+      "ContentRoot": "D:\\Área de Trabalho\\reporitorio\\QuizCarros\\wwwroot\\",
       "BasePath": "_content/QuizCarros",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.min.js",
       "AssetKind": "All",
@@ -1062,10 +1062,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
     },
     {
-      "Identity": "D:\\Área de Trabalho\\reporitorio\\Projetos-Js\\QuizCarros\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "Identity": "D:\\Área de Trabalho\\reporitorio\\QuizCarros\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
       "SourceId": "QuizCarros",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Área de Trabalho\\reporitorio\\Projetos-Js\\QuizCarros\\wwwroot\\",
+      "ContentRoot": "D:\\Área de Trabalho\\reporitorio\\QuizCarros\\wwwroot\\",
       "BasePath": "_content/QuizCarros",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.min.js.map",
       "AssetKind": "All",
@@ -1081,10 +1081,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
     },
     {
-      "Identity": "D:\\Área de Trabalho\\reporitorio\\Projetos-Js\\QuizCarros\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "Identity": "D:\\Área de Trabalho\\reporitorio\\QuizCarros\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
       "SourceId": "QuizCarros",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Área de Trabalho\\reporitorio\\Projetos-Js\\QuizCarros\\wwwroot\\",
+      "ContentRoot": "D:\\Área de Trabalho\\reporitorio\\QuizCarros\\wwwroot\\",
       "BasePath": "_content/QuizCarros",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.js",
       "AssetKind": "All",
@@ -1100,10 +1100,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js"
     },
     {
-      "Identity": "D:\\Área de Trabalho\\reporitorio\\Projetos-Js\\QuizCarros\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "Identity": "D:\\Área de Trabalho\\reporitorio\\QuizCarros\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
       "SourceId": "QuizCarros",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Área de Trabalho\\reporitorio\\Projetos-Js\\QuizCarros\\wwwroot\\",
+      "ContentRoot": "D:\\Área de Trabalho\\reporitorio\\QuizCarros\\wwwroot\\",
       "BasePath": "_content/QuizCarros",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.js.map",
       "AssetKind": "All",
@@ -1119,10 +1119,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
     },
     {
-      "Identity": "D:\\Área de Trabalho\\reporitorio\\Projetos-Js\\QuizCarros\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "Identity": "D:\\Área de Trabalho\\reporitorio\\QuizCarros\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
       "SourceId": "QuizCarros",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Área de Trabalho\\reporitorio\\Projetos-Js\\QuizCarros\\wwwroot\\",
+      "ContentRoot": "D:\\Área de Trabalho\\reporitorio\\QuizCarros\\wwwroot\\",
       "BasePath": "_content/QuizCarros",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.min.js",
       "AssetKind": "All",
@@ -1138,10 +1138,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
     },
     {
-      "Identity": "D:\\Área de Trabalho\\reporitorio\\Projetos-Js\\QuizCarros\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "Identity": "D:\\Área de Trabalho\\reporitorio\\QuizCarros\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
       "SourceId": "QuizCarros",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Área de Trabalho\\reporitorio\\Projetos-Js\\QuizCarros\\wwwroot\\",
+      "ContentRoot": "D:\\Área de Trabalho\\reporitorio\\QuizCarros\\wwwroot\\",
       "BasePath": "_content/QuizCarros",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.min.js.map",
       "AssetKind": "All",
@@ -1157,10 +1157,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
     },
     {
-      "Identity": "D:\\Área de Trabalho\\reporitorio\\Projetos-Js\\QuizCarros\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "Identity": "D:\\Área de Trabalho\\reporitorio\\QuizCarros\\wwwroot\\lib\\bootstrap\\LICENSE",
       "SourceId": "QuizCarros",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Área de Trabalho\\reporitorio\\Projetos-Js\\QuizCarros\\wwwroot\\",
+      "ContentRoot": "D:\\Área de Trabalho\\reporitorio\\QuizCarros\\wwwroot\\",
       "BasePath": "_content/QuizCarros",
       "RelativePath": "lib/bootstrap/LICENSE",
       "AssetKind": "All",
@@ -1176,10 +1176,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\LICENSE"
     },
     {
-      "Identity": "D:\\Área de Trabalho\\reporitorio\\Projetos-Js\\QuizCarros\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "Identity": "D:\\Área de Trabalho\\reporitorio\\QuizCarros\\wwwroot\\lib\\jquery\\dist\\jquery.js",
       "SourceId": "QuizCarros",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Área de Trabalho\\reporitorio\\Projetos-Js\\QuizCarros\\wwwroot\\",
+      "ContentRoot": "D:\\Área de Trabalho\\reporitorio\\QuizCarros\\wwwroot\\",
       "BasePath": "_content/QuizCarros",
       "RelativePath": "lib/jquery/dist/jquery.js",
       "AssetKind": "All",
@@ -1195,10 +1195,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.js"
     },
     {
-      "Identity": "D:\\Área de Trabalho\\reporitorio\\Projetos-Js\\QuizCarros\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "Identity": "D:\\Área de Trabalho\\reporitorio\\QuizCarros\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
       "SourceId": "QuizCarros",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Área de Trabalho\\reporitorio\\Projetos-Js\\QuizCarros\\wwwroot\\",
+      "ContentRoot": "D:\\Área de Trabalho\\reporitorio\\QuizCarros\\wwwroot\\",
       "BasePath": "_content/QuizCarros",
       "RelativePath": "lib/jquery/dist/jquery.min.js",
       "AssetKind": "All",
@@ -1214,10 +1214,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.min.js"
     },
     {
-      "Identity": "D:\\Área de Trabalho\\reporitorio\\Projetos-Js\\QuizCarros\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "Identity": "D:\\Área de Trabalho\\reporitorio\\QuizCarros\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
       "SourceId": "QuizCarros",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Área de Trabalho\\reporitorio\\Projetos-Js\\QuizCarros\\wwwroot\\",
+      "ContentRoot": "D:\\Área de Trabalho\\reporitorio\\QuizCarros\\wwwroot\\",
       "BasePath": "_content/QuizCarros",
       "RelativePath": "lib/jquery/dist/jquery.min.map",
       "AssetKind": "All",
@@ -1233,10 +1233,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.min.map"
     },
     {
-      "Identity": "D:\\Área de Trabalho\\reporitorio\\Projetos-Js\\QuizCarros\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "Identity": "D:\\Área de Trabalho\\reporitorio\\QuizCarros\\wwwroot\\lib\\jquery\\LICENSE.txt",
       "SourceId": "QuizCarros",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Área de Trabalho\\reporitorio\\Projetos-Js\\QuizCarros\\wwwroot\\",
+      "ContentRoot": "D:\\Área de Trabalho\\reporitorio\\QuizCarros\\wwwroot\\",
       "BasePath": "_content/QuizCarros",
       "RelativePath": "lib/jquery/LICENSE.txt",
       "AssetKind": "All",
@@ -1252,10 +1252,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\LICENSE.txt"
     },
     {
-      "Identity": "D:\\Área de Trabalho\\reporitorio\\Projetos-Js\\QuizCarros\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "Identity": "D:\\Área de Trabalho\\reporitorio\\QuizCarros\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
       "SourceId": "QuizCarros",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Área de Trabalho\\reporitorio\\Projetos-Js\\QuizCarros\\wwwroot\\",
+      "ContentRoot": "D:\\Área de Trabalho\\reporitorio\\QuizCarros\\wwwroot\\",
       "BasePath": "_content/QuizCarros",
       "RelativePath": "lib/jquery-validation/dist/additional-methods.js",
       "AssetKind": "All",
@@ -1271,10 +1271,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js"
     },
     {
-      "Identity": "D:\\Área de Trabalho\\reporitorio\\Projetos-Js\\QuizCarros\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "Identity": "D:\\Área de Trabalho\\reporitorio\\QuizCarros\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
       "SourceId": "QuizCarros",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Área de Trabalho\\reporitorio\\Projetos-Js\\QuizCarros\\wwwroot\\",
+      "ContentRoot": "D:\\Área de Trabalho\\reporitorio\\QuizCarros\\wwwroot\\",
       "BasePath": "_content/QuizCarros",
       "RelativePath": "lib/jquery-validation/dist/additional-methods.min.js",
       "AssetKind": "All",
@@ -1290,10 +1290,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js"
     },
     {
-      "Identity": "D:\\Área de Trabalho\\reporitorio\\Projetos-Js\\QuizCarros\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "Identity": "D:\\Área de Trabalho\\reporitorio\\QuizCarros\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
       "SourceId": "QuizCarros",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Área de Trabalho\\reporitorio\\Projetos-Js\\QuizCarros\\wwwroot\\",
+      "ContentRoot": "D:\\Área de Trabalho\\reporitorio\\QuizCarros\\wwwroot\\",
       "BasePath": "_content/QuizCarros",
       "RelativePath": "lib/jquery-validation/dist/jquery.validate.js",
       "AssetKind": "All",
@@ -1309,10 +1309,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js"
     },
     {
-      "Identity": "D:\\Área de Trabalho\\reporitorio\\Projetos-Js\\QuizCarros\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "Identity": "D:\\Área de Trabalho\\reporitorio\\QuizCarros\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
       "SourceId": "QuizCarros",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Área de Trabalho\\reporitorio\\Projetos-Js\\QuizCarros\\wwwroot\\",
+      "ContentRoot": "D:\\Área de Trabalho\\reporitorio\\QuizCarros\\wwwroot\\",
       "BasePath": "_content/QuizCarros",
       "RelativePath": "lib/jquery-validation/dist/jquery.validate.min.js",
       "AssetKind": "All",
@@ -1328,10 +1328,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
     },
     {
-      "Identity": "D:\\Área de Trabalho\\reporitorio\\Projetos-Js\\QuizCarros\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "Identity": "D:\\Área de Trabalho\\reporitorio\\QuizCarros\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
       "SourceId": "QuizCarros",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Área de Trabalho\\reporitorio\\Projetos-Js\\QuizCarros\\wwwroot\\",
+      "ContentRoot": "D:\\Área de Trabalho\\reporitorio\\QuizCarros\\wwwroot\\",
       "BasePath": "_content/QuizCarros",
       "RelativePath": "lib/jquery-validation/LICENSE.md",
       "AssetKind": "All",
@@ -1347,10 +1347,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\LICENSE.md"
     },
     {
-      "Identity": "D:\\Área de Trabalho\\reporitorio\\Projetos-Js\\QuizCarros\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "Identity": "D:\\Área de Trabalho\\reporitorio\\QuizCarros\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
       "SourceId": "QuizCarros",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Área de Trabalho\\reporitorio\\Projetos-Js\\QuizCarros\\wwwroot\\",
+      "ContentRoot": "D:\\Área de Trabalho\\reporitorio\\QuizCarros\\wwwroot\\",
       "BasePath": "_content/QuizCarros",
       "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js",
       "AssetKind": "All",
@@ -1366,10 +1366,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
     },
     {
-      "Identity": "D:\\Área de Trabalho\\reporitorio\\Projetos-Js\\QuizCarros\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "Identity": "D:\\Área de Trabalho\\reporitorio\\QuizCarros\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
       "SourceId": "QuizCarros",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Área de Trabalho\\reporitorio\\Projetos-Js\\QuizCarros\\wwwroot\\",
+      "ContentRoot": "D:\\Área de Trabalho\\reporitorio\\QuizCarros\\wwwroot\\",
       "BasePath": "_content/QuizCarros",
       "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js",
       "AssetKind": "All",
@@ -1385,10 +1385,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
     },
     {
-      "Identity": "D:\\Área de Trabalho\\reporitorio\\Projetos-Js\\QuizCarros\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "Identity": "D:\\Área de Trabalho\\reporitorio\\QuizCarros\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
       "SourceId": "QuizCarros",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Área de Trabalho\\reporitorio\\Projetos-Js\\QuizCarros\\wwwroot\\",
+      "ContentRoot": "D:\\Área de Trabalho\\reporitorio\\QuizCarros\\wwwroot\\",
       "BasePath": "_content/QuizCarros",
       "RelativePath": "lib/jquery-validation-unobtrusive/LICENSE.txt",
       "AssetKind": "All",
