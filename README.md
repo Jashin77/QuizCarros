@@ -6,6 +6,9 @@
 
 📽️ [Clique aqui para baixar e assistir o vídeo](https://github.com/Jashin77/Projetos-web/tree/main/QuizCarros/demo)
 
+## Hospedagem Azure free(clique no link pra testar)
+quizcarros-bzfthdffbdaxfvau.brazilsouth-01.azurewebsites.net
+
 
 ## 📌 Funcionalidades  
 
