@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "D:\\\u00C1rea de Trabalho\\reporitorio\\QuizCarros\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{5EB3146D-D93E-4277-AE03-351C5311DF32}|QuizCarros.csproj|d:\\\u00E1rea de trabalho\\reporitorio\\quizcarros\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{5EB3146D-D93E-4277-AE03-351C5311DF32}|QuizCarros.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{5EB3146D-D93E-4277-AE03-351C5311DF32}|QuizCarros.csproj|d:\\\u00E1rea de trabalho\\reporitorio\\quizcarros\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5EB3146D-D93E-4277-AE03-351C5311DF32}|QuizCarros.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5EB3146D-D93E-4277-AE03-351C5311DF32}|QuizCarros.csproj|d:\\\u00E1rea de trabalho\\reporitorio\\quizcarros\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{5EB3146D-D93E-4277-AE03-351C5311DF32}|QuizCarros.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{5EB3146D-D93E-4277-AE03-351C5311DF32}|QuizCarros.csproj|d:\\\u00E1rea de trabalho\\reporitorio\\quizcarros\\quizcarros.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
@@ -86,7 +86,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 7,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -106,15 +106,16 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\\u00C1rea de Trabalho\\reporitorio\\QuizCarros\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "D:\\\u00C1rea de Trabalho\\reporitorio\\QuizCarros\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-14T00:47:45.149Z"
+              "WhenOpened": "2025-03-14T00:47:45.149Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -166,7 +167,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "appsettings.json",
               "DocumentMoniker": "D:\\\u00C1rea de Trabalho\\reporitorio\\QuizCarros\\appsettings.json",
               "RelativeDocumentMoniker": "appsettings.json",
@@ -174,8 +175,7 @@
               "RelativeToolTip": "appsettings.json",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-03-14T00:51:31.531Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-14T00:51:31.531Z"
             },
             {
               "$type": "Document",
