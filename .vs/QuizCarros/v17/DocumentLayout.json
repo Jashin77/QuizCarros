@@ -3,16 +3,28 @@
   "WorkspaceRootPath": "D:\\\u00C1rea de Trabalho\\reporitorio\\QuizCarros\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{5EB3146D-D93E-4277-AE03-351C5311DF32}|QuizCarros.csproj|d:\\\u00E1rea de trabalho\\reporitorio\\quizcarros\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{5EB3146D-D93E-4277-AE03-351C5311DF32}|QuizCarros.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5EB3146D-D93E-4277-AE03-351C5311DF32}|QuizCarros.csproj|d:\\\u00E1rea de trabalho\\reporitorio\\quizcarros\\migrations\\20250315164345_attimgperguntas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5EB3146D-D93E-4277-AE03-351C5311DF32}|QuizCarros.csproj|solutionrelative:migrations\\20250315164345_attimgperguntas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5EB3146D-D93E-4277-AE03-351C5311DF32}|QuizCarros.csproj|d:\\\u00E1rea de trabalho\\reporitorio\\quizcarros\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5EB3146D-D93E-4277-AE03-351C5311DF32}|QuizCarros.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5EB3146D-D93E-4277-AE03-351C5311DF32}|QuizCarros.csproj|d:\\\u00E1rea de trabalho\\reporitorio\\quizcarros\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{5EB3146D-D93E-4277-AE03-351C5311DF32}|QuizCarros.csproj|solutionrelative:properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{5EB3146D-D93E-4277-AE03-351C5311DF32}|QuizCarros.csproj|d:\\\u00E1rea de trabalho\\reporitorio\\quizcarros\\migrations\\20250723145630_corrigirtextoturbocompressor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5EB3146D-D93E-4277-AE03-351C5311DF32}|QuizCarros.csproj|solutionrelative:migrations\\20250723145630_corrigirtextoturbocompressor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{5EB3146D-D93E-4277-AE03-351C5311DF32}|QuizCarros.csproj|d:\\\u00E1rea de trabalho\\reporitorio\\quizcarros\\migrations\\20250314185555_popularperguntas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5EB3146D-D93E-4277-AE03-351C5311DF32}|QuizCarros.csproj|solutionrelative:migrations\\20250314185555_popularperguntas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5EB3146D-D93E-4277-AE03-351C5311DF32}|QuizCarros.csproj|d:\\\u00E1rea de trabalho\\reporitorio\\quizcarros\\migrations\\20250315164345_attimgperguntas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5EB3146D-D93E-4277-AE03-351C5311DF32}|QuizCarros.csproj|solutionrelative:migrations\\20250315164345_attimgperguntas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{5EB3146D-D93E-4277-AE03-351C5311DF32}|QuizCarros.csproj|d:\\\u00E1rea de trabalho\\reporitorio\\quizcarros\\migrations\\20250314164418_migracaoinicial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -23,20 +35,8 @@
       "RelativeMoniker": "D:0:0:{5EB3146D-D93E-4277-AE03-351C5311DF32}|QuizCarros.csproj|solutionrelative:migrations\\20250315153244_adicionarimagemperguntas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5EB3146D-D93E-4277-AE03-351C5311DF32}|QuizCarros.csproj|d:\\\u00E1rea de trabalho\\reporitorio\\quizcarros\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5EB3146D-D93E-4277-AE03-351C5311DF32}|QuizCarros.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5EB3146D-D93E-4277-AE03-351C5311DF32}|QuizCarros.csproj|d:\\\u00E1rea de trabalho\\reporitorio\\quizcarros\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{5EB3146D-D93E-4277-AE03-351C5311DF32}|QuizCarros.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{5EB3146D-D93E-4277-AE03-351C5311DF32}|QuizCarros.csproj|d:\\\u00E1rea de trabalho\\reporitorio\\quizcarros\\quizcarros.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{5EB3146D-D93E-4277-AE03-351C5311DF32}|QuizCarros.csproj|solutionrelative:quizcarros.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5EB3146D-D93E-4277-AE03-351C5311DF32}|QuizCarros.csproj|d:\\\u00E1rea de trabalho\\reporitorio\\quizcarros\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{5EB3146D-D93E-4277-AE03-351C5311DF32}|QuizCarros.csproj|solutionrelative:properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{5EB3146D-D93E-4277-AE03-351C5311DF32}|QuizCarros.csproj|d:\\\u00E1rea de trabalho\\reporitorio\\quizcarros\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -90,7 +90,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
@@ -98,7 +98,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 4,
               "Title": "20250723145630_CorrigirTextoTurboCompressor.cs",
               "DocumentMoniker": "D:\\\u00C1rea de Trabalho\\reporitorio\\QuizCarros\\Migrations\\20250723145630_CorrigirTextoTurboCompressor.cs",
               "RelativeDocumentMoniker": "Migrations\\20250723145630_CorrigirTextoTurboCompressor.cs",
@@ -112,19 +112,82 @@
             {
               "$type": "Document",
               "DocumentIndex": 5,
+              "Title": "20250314185555_PopularPerguntas.cs",
+              "DocumentMoniker": "D:\\\u00C1rea de Trabalho\\reporitorio\\QuizCarros\\Migrations\\20250314185555_PopularPerguntas.cs",
+              "RelativeDocumentMoniker": "Migrations\\20250314185555_PopularPerguntas.cs",
+              "ToolTip": "D:\\\u00C1rea de Trabalho\\reporitorio\\QuizCarros\\Migrations\\20250314185555_PopularPerguntas.cs",
+              "RelativeToolTip": "Migrations\\20250314185555_PopularPerguntas.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAQwCsAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-14T18:55:55.673Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "20250315164345_attImgPerguntas.cs",
+              "DocumentMoniker": "D:\\\u00C1rea de Trabalho\\reporitorio\\QuizCarros\\Migrations\\20250315164345_attImgPerguntas.cs",
+              "RelativeDocumentMoniker": "Migrations\\20250315164345_attImgPerguntas.cs",
+              "ToolTip": "D:\\\u00C1rea de Trabalho\\reporitorio\\QuizCarros\\Migrations\\20250315164345_attImgPerguntas.cs",
+              "RelativeToolTip": "Migrations\\20250315164345_attImgPerguntas.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-15T16:43:45.751Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\\u00C1rea de Trabalho\\reporitorio\\QuizCarros\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "D:\\\u00C1rea de Trabalho\\reporitorio\\QuizCarros\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-14T00:51:31.531Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "D:\\\u00C1rea de Trabalho\\reporitorio\\QuizCarros\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Properties\\launchSettings.json",
+              "ToolTip": "D:\\\u00C1rea de Trabalho\\reporitorio\\QuizCarros\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Properties\\launchSettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-14T00:51:58.548Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\\u00C1rea de Trabalho\\reporitorio\\QuizCarros\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "D:\\\u00C1rea de Trabalho\\reporitorio\\QuizCarros\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAAAAAAA",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAkAAAArAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-14T00:47:45.149Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 6,
+              "Title": "20250314164418_MigracaoInicial.cs",
+              "DocumentMoniker": "D:\\\u00C1rea de Trabalho\\reporitorio\\QuizCarros\\Migrations\\20250314164418_MigracaoInicial.cs",
+              "RelativeDocumentMoniker": "Migrations\\20250314164418_MigracaoInicial.cs",
+              "ToolTip": "D:\\\u00C1rea de Trabalho\\reporitorio\\QuizCarros\\Migrations\\20250314164418_MigracaoInicial.cs",
+              "RelativeToolTip": "Migrations\\20250314164418_MigracaoInicial.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-14T16:44:18.434Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
               "Title": "QuizCarros.csproj",
               "DocumentMoniker": "D:\\\u00C1rea de Trabalho\\reporitorio\\QuizCarros\\QuizCarros.csproj",
               "RelativeDocumentMoniker": "QuizCarros.csproj",
@@ -136,46 +199,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "20250314164418_MigracaoInicial.cs",
-              "DocumentMoniker": "D:\\\u00C1rea de Trabalho\\reporitorio\\QuizCarros\\Migrations\\20250314164418_MigracaoInicial.cs",
-              "RelativeDocumentMoniker": "Migrations\\20250314164418_MigracaoInicial.cs",
-              "ToolTip": "D:\\\u00C1rea de Trabalho\\reporitorio\\QuizCarros\\Migrations\\20250314164418_MigracaoInicial.cs",
-              "RelativeToolTip": "Migrations\\20250314164418_MigracaoInicial.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-14T16:44:18.434Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "20250314185555_PopularPerguntas.cs",
-              "DocumentMoniker": "D:\\\u00C1rea de Trabalho\\reporitorio\\QuizCarros\\Migrations\\20250314185555_PopularPerguntas.cs",
-              "RelativeDocumentMoniker": "Migrations\\20250314185555_PopularPerguntas.cs",
-              "ToolTip": "D:\\\u00C1rea de Trabalho\\reporitorio\\QuizCarros\\Migrations\\20250314185555_PopularPerguntas.cs",
-              "RelativeToolTip": "Migrations\\20250314185555_PopularPerguntas.cs",
-              "ViewState": "AQIAAAgAAAAAAAAAAAAQwCsAAAAJAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-14T18:55:55.673Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "20250315164345_attImgPerguntas.cs",
-              "DocumentMoniker": "D:\\\u00C1rea de Trabalho\\reporitorio\\QuizCarros\\Migrations\\20250315164345_attImgPerguntas.cs",
-              "RelativeDocumentMoniker": "Migrations\\20250315164345_attImgPerguntas.cs",
-              "ToolTip": "D:\\\u00C1rea de Trabalho\\reporitorio\\QuizCarros\\Migrations\\20250315164345_attImgPerguntas.cs",
-              "RelativeToolTip": "Migrations\\20250315164345_attImgPerguntas.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAAaAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-15T16:43:45.751Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 7,
               "Title": "20250315153244_AdicionarImagemPerguntas.cs",
               "DocumentMoniker": "D:\\\u00C1rea de Trabalho\\reporitorio\\QuizCarros\\Migrations\\20250315153244_AdicionarImagemPerguntas.cs",
               "RelativeDocumentMoniker": "Migrations\\20250315153244_AdicionarImagemPerguntas.cs",
@@ -183,32 +207,7 @@
               "RelativeToolTip": "Migrations\\20250315153244_AdicionarImagemPerguntas.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAACkAAABXAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-15T15:32:44.397Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "launchSettings.json",
-              "DocumentMoniker": "D:\\\u00C1rea de Trabalho\\reporitorio\\QuizCarros\\Properties\\launchSettings.json",
-              "RelativeDocumentMoniker": "Properties\\launchSettings.json",
-              "ToolTip": "D:\\\u00C1rea de Trabalho\\reporitorio\\QuizCarros\\Properties\\launchSettings.json",
-              "RelativeToolTip": "Properties\\launchSettings.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAACYAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-03-14T00:51:58.548Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "D:\\\u00C1rea de Trabalho\\reporitorio\\QuizCarros\\appsettings.json",
-              "RelativeDocumentMoniker": "appsettings.json",
-              "ToolTip": "D:\\\u00C1rea de Trabalho\\reporitorio\\QuizCarros\\appsettings.json",
-              "RelativeToolTip": "appsettings.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-03-14T00:51:31.531Z"
+              "WhenOpened": "2025-03-15T15:32:44.397Z"
             },
             {
               "$type": "Document",
