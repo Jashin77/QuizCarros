@@ -3,8 +3,11 @@ using QuizCarros.Data;
 
 var builder = WebApplication.CreateBuilder(args);
 
+// Monta o caminho absoluto para o quiz.db
+var dbPath = Path.Combine(builder.Environment.ContentRootPath, "quiz.db");
+
 builder.Services.AddDbContext<ApplicationDbContext>(options =>
-    options.UseSqlite(builder.Configuration.GetConnectionString("DefaultConnection")));
+    options.UseSqlite($"Data Source={dbPath}"));
 
 builder.Services.AddControllersWithViews();
 
